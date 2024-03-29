@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/pets/empl5/ms-employee/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/pets/empl5/ms-employee/./frontend/generated/jar-resources",
+  "staticOutput": "D:/pets/empl5/ms-employee/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\pets\\empl5\\ms-employee\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\pets\\empl5\\ms-employee\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/pets/empl5/ms-employee/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/pets/empl5/ms-employee/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/pets/empl5/ms-employee/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\pets\\empl5\\ms-employee\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
